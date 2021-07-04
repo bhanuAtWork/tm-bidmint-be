@@ -46,7 +46,7 @@
 
 > ## Collaborators
 
-- [Bhanu Pratap Chauhan](https://github.com/bhanuAtWork)
+- [Siddhant Nanda](https://github.com/siddhant-nanda)
 
 > ## Conclusion
 
